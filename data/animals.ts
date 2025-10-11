@@ -13,4 +13,5 @@ export const ANIMALS: Animal[] = [
   { id: "elephant",  name: "Elephant",  emoji: "🐘", category: "Database",   color: "bg-gray-100 text-gray-800" },
   { id: "owl",       name: "Owl",       emoji: "🦉", category: "Monitoring", color: "bg-indigo-100 text-indigo-800" },
   { id: "beaver",    name: "Beaver",    emoji: "🦫", category: "VCS",        color: "bg-amber-100 text-amber-800" },
+  { id: "gitcat",    name: "GitCat",    emoji: "🐈‍⬛", category: "Git & Collaboration", color: "bg-[#181717] text-white" },
 ];
